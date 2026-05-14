@@ -80,7 +80,7 @@ const experienceItems = [
     desc: "A comfortable space for customers to stay longer, enjoy inner beauty drinks and interact with the brand.",
   },
   {
-    title: "Skin Consultation",
+    title: "Skin Therapy",
     image: imageBank.therapy,
     desc: "Routine recommendation and light beauty advisory connected to product purchase.",
   },
