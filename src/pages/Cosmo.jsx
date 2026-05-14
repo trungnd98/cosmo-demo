@@ -36,7 +36,6 @@ const imageBank = {
 
 const highlights = [
   "Curated K-Beauty Products",
-  "AI Skin Analysis",
   "Premium Retail Display",
   "ESL Smart Shelf",
   "Beauty Consultation",
@@ -52,7 +51,7 @@ const conceptCards = [
   {
     icon: "sparkles",
     title: "Smart Beauty Experience",
-    desc: "AI skin analysis, product recommendation and beauty advisor consultation help customers find suitable routines with more confidence.",
+    desc: "Product recommendation and beauty advisor consultation help customers find suitable routines with more confidence.",
   },
   {
     icon: "screen",
@@ -83,7 +82,7 @@ const experienceItems = [
   {
     title: "Skin Consultation",
     image: imageBank.therapy,
-    desc: "AI skin analysis, routine recommendation and light beauty advisory connected to product purchase.",
+    desc: "Routine recommendation and light beauty advisory connected to product purchase.",
   },
 ];
 
@@ -91,7 +90,7 @@ const brandBenefits = [
   "Offline product exposure in a premium K-beauty environment",
   "Product testing and customer feedback opportunity",
   "Digital signage and in-store campaign display",
-  "AI skin analysis and consultation-linked product recommendation",
+  "Consultation-linked product recommendation",
   "CRM and membership-based repeat purchase potential",
   "A suitable showcase channel for Korean cosmetics companies entering Vietnam",
 ];
